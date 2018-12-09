@@ -1,6 +1,7 @@
 #/home/h4ckfu/anaconda3/bin/python3
 #04.21.18
 # These are things that i've sadly looked up...
+# Just notes essentially 
 
 test_string="Why Cant I Remember"
 s='ant'
