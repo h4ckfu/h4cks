@@ -2,6 +2,7 @@
 #04.21.18
 # These are things that i've sadly looked up...
 # Just notes essentially 
+# https://www.youtube.com/watch?v=Z3_lIPESVTw
 
 test_string="Why Cant I Remember"
 s='ant'
