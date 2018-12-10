@@ -3,7 +3,7 @@
 
 import cv2
 
-cap = cv2.VideoCapture(0) # need a webcam for this to work or replace w/ filename
+cap = cv2.VideoCapture(0) # need a webcam for this to work or replace 0 w/ filename
 
 w = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 h = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
