@@ -50,7 +50,7 @@ while True:
 
     bgr = cv2.cvtColor(hsv_mask, cv2.COLOR_HSV2BGR)
 
-    #writer.write('frame2')
+    writer.write(bgr)
     # image is not a numpy array, neither a scalar
 
     cv2.imshow('frame2',bgr)
