@@ -1,9 +1,6 @@
 import newspaper
-import time
 from time import gmtime, strftime
 from string import punctuation
-from collections import Counter, OrderedDict
-import operator
 from time import sleep
 import logging
 
