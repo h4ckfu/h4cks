@@ -9,7 +9,6 @@ def save_crawl(crawl_list, news_name):
     x = str(strftime("%Y-%m-%d-%H-%M-%S", gmtime()))
     file_name = 'data/crawl_list-' + x + '-' + news_name +'.data'
 
-
         with open(file_name, 'w') as out_f:
             for li in crawl_list:
                 w = "'" + li + "',"
